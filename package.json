@@ -1,0 +1,22 @@
+{
+  "name": "podcastdl",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch dev.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "podcastdl": "./cli.js"
+  },
+  "author": "Anthony Ringoet",
+  "license": "MIT",
+  "dependencies": {
+    "fast-xml-parser": "^4.0.13"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
