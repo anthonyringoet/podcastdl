@@ -1,5 +1,5 @@
 # podcastdl
-Download podcast audio files and general info from a podcast RSS feed.
+Download podcast audio files and general info from a podcast RSS feed. Not optimized. It does what it does for me, albeit not in the most speedy fashion.
 
 ## CLI usage
 ```bash
